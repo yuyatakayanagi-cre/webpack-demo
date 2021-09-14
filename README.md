@@ -1,3 +1,3 @@
-# sass-extend-laravel
+# webpack-demo
 
-laravel環境下でsassファイルのインポート管理ができるか検証する環境
+検証する環境
